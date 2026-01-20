@@ -8,7 +8,7 @@ AI Ops Copilot is a lightweight, AI-powered incident analysis platform that plug
 
 ### 1. Create an Account
 
-* Visit the AI Ops Copilot website : www.aiopsco.vercel.app
+* Visit the AI Ops Copilot website : aiopsco.vercel.app
 * Sign up using email & password
 * Log in to access your dashboard
 
